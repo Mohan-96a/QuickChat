@@ -42,8 +42,8 @@ A real-time chat application built with React, Node.js, Express, MongoDB, and So
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Ramanapenmetsa01/Quick-chat.git
-cd Quick-chat
+git clone https://github.com/Mohan-96a/QuickChat.git
+cd QuickChat
 ```
 
 2. Install server dependencies
